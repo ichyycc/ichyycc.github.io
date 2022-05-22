@@ -49,5 +49,5 @@ params:
 
     editPost:
         URL: "https://github.com/ichyycc/ichyycc.github.io/tree/master/content"
-        Text: "修改" # edit text
+        Text: "编辑" # edit text
         appendFilePath: true # to append file path to Edit link
