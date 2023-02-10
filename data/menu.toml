@@ -20,7 +20,7 @@ title = "post"
   title = "more"
   [[entries.entries]]
   title = "blog"
-  url = "https://github.com/ichyycc"
+  url = "https://github.com/ichyycc/ichyycc.github.io"
   [[entries.entries]]
   title = "theme"
   url = "https://github.com/ichyycc/hugo-theme-nostyleplease"
