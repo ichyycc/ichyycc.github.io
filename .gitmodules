@@ -1,3 +1,4 @@
+
 [submodule "themes/nostyle"]
 	path = themes/nostyle
-	url = https://github.com/wooseopkim/hugo-theme-nostyleplease.git
+	url = https://github.com/ichyycc/hugo-theme-nostyleplease.git
