@@ -1,11 +1,26 @@
 [[entries]]
-title = "info"
+title = "me"
+
+  [[entries.entries]]
+  title = "email"
+  url = "beixiao777@gmail.com"
+
+  [[entries.entries]]
+  title = "github"
+  url = "https://github.com/ichyycc"
+ 
+[[entries]]
+title = "post"
   [entries.post_list]
   limit = 10
   show_more = true
   show_more_text = "more"
   show_more_url = "posts/"
-
 [[entries]]
-title = "more"
-url = "https://ichyycc.github.io/"
+  title = "more"
+  [[entries.entries]]
+  title = "blog"
+  url = "https://github.com/ichyycc"
+  [[entries.entries]]
+  title = "theme"
+  url = "https://github.com/ichyycc/hugo-theme-nostyleplease"
