@@ -2,7 +2,7 @@
 title = "me"
 
   [[entries.entries]]
-  title = "email"
+  title = "<a href='mailto:beixiao777@gmail.com'>email</a>"
   url = "beixiao777@gmail.com"
 
   [[entries.entries]]
@@ -16,7 +16,19 @@ title = "post"
   show_more = true
   show_more_text = "more"
   show_more_url = "posts/"
-  
+
+[[entries]]
+title = "categories"
+  url = "categories/"
+
+  [[entries.entries]]
+  title = "test"
+  url = "categories/test/"
+
+  [[entries.entries]]
+  title = "github"
+  url = "categories/github"
+
 [[entries]]
 title = "rss"
 url = "index.xml"

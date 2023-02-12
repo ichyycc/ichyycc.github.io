@@ -1,7 +1,10 @@
 baseURL = "https://ichyycc.github.io/"
 languageCode = "zh-cn"
-title = "北箫 Blog"
+title = "Beixiao Blog"
 theme = "nostyle"
 
 [minify]
   minifyOutput = true
+[taxonomies]
+  category = "categories"
+  tag = "tags"
